@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaykrai11
-- 👀 I’m interested in full Stack Weeb Development.
+- 👀 I’m interested in full Stack Web Development.
 - 🌱 I’m currently learning most useful computer language Java.
 - 💞️ I’m looking to collaborate on frontend Web development.
 - 
