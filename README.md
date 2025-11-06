@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jaykrai
+# Hi there 👋, I'm Jay Kumar Rai
 
 💻 **Full Stack Developer | ML Enthusiast | Robotics & Automation Learner**
 
